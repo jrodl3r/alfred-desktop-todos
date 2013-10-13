@@ -2,7 +2,7 @@
 
 This extension adds & removes desktop todo-items with [Alfred 2](http://alfredapp.com) Workflows.
 
-![](https://raw.github.com/jrodl3r/alfred-desktop-todos/master/screenshots/keyword.png)
+![](https://raw.github.com/jrodl3r/alfred-desktop-todos/master/screenshot/keyword.png)
 
 
 ##Getting Started
