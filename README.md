@@ -12,12 +12,14 @@ To install, download the exported workflow (here: [Desktop Todo's.alfredworkflow
 
 ##Usage
 
-###Adding Items:
-#####Keyword `todo`
+###Adding Items
+**Keyword:** `todo`
+
 Add "Get Milk" item: `todo Get Milk`
 
-###Removing Items:
-#####Keyword: `todo remove`
+###Removing Items
+**Keyword:** `todo remove`
+
 Remove "Get Milk" item: `todo remove Get Milk`
 
 
